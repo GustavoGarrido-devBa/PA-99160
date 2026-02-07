@@ -1,0 +1,40 @@
+/* RESET E CONFIGURAÇÕES GERAIS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: rgba(12, 0, 41, 0.884); */
+    background-image: url("assets/W0wamazing Cool Pokemon HD Wallpaper.jpg");
+
+h2 {
+    text-align: center;
+    color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(255, 255, 255)
+}
+
+img {
+    max-width: 30%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+P {
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 260px;
+    color:rgb(255, 0, 221);
+}
+
+hr {
+    max-width: 70%;
+    margin: 0 auto;
+}
